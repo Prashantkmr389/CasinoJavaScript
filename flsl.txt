@@ -1,0 +1,38 @@
+git init 
+
+git log -> to check the previous
+
+git add . -> to add everything
+
+git add name  -> to add file name
+
+git commit -m 'new Name' -> to add name
+
+git status -> to check the status of the
+
+git diff -> to check the new thin
+
+git log -> to go verious time
+
+git checkout id -> to go to different commit
+
+git branch -> to check master
+
+git branch -d branch_name -> to delete a branch
+
+git checkout -b branch_name -> to create a new branch 
+
+is precisely there for adding your commit message.
+
+You press i, and you enter insert mode. You can navigate 
+around the text and insert what ever you want. When done, press Esc.
+ This makes you exit insert mode. Next you have to press :wq, which means to write and quit.
+
+
+
+git config user.name
+git config user.name 'Pk'
+git config user.email
+git remote add origin https://github.com/Prashantkmr389/gitit.git
+
+git push origin master
